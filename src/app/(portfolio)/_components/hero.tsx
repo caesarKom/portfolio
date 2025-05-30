@@ -34,7 +34,10 @@ export const Hero = () => {
           className="flex justify-center space-x-6"
         >
           {[
-            { icon: <Github className="w-6 h-6" />, href: "#" },
+            {
+              icon: <Github className="w-6 h-6" />,
+              href: "https://github.com/caesarKom",
+            },
             { icon: <Linkedin className="w-6 h-6" />, href: "#" },
             { icon: <Mail className="w-6 h-6" />, href: "#contact" },
           ].map((social, index) => (

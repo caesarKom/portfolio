@@ -20,17 +20,17 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://your-domain.com",
+    url: "https://portfolio.iscode.eu",
     title: "Cezary - Full Stack Developer",
     description:
-      "20 years of crafting digital solutions with passion and precision.",
+      "5 years of crafting digital solutions with passion and precision.",
     siteName: "Cezary Portfolio",
   },
   twitter: {
     card: "summary_large_image",
     title: "Cezary - Full Stack Developer",
     description:
-      "20 years of crafting digital solutions with passion and precision.",
+      "5 years of crafting digital solutions with passion and precision.",
   },
   // viewport: "width=device-width, initial-scale=1, maximum-scale=1',",
   robots: "index, follow",
